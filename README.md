@@ -1,3 +1,5 @@
+<img align="right" width="100" height="100" src="images/icon_metabase.png"/>
+
 <img align="right" width="70" height="70" src="images/icon_sql.png"/>
 
 # Análise em SQL: gere planos de ação a partir das suas consultas
@@ -39,7 +41,7 @@ leads_basic_details
 group by 
 gender`
 
-**Obteve-se o gráfico de pizza:**
+**Gráfico de pizza:**
 
 <img align="center" src="images/pizza_1.png"/>
 
@@ -50,7 +52,7 @@ from leads_basic_details
 group by current_education
 order by Quantidade`
 
-**Obteve-se o gráfico de barras:**
+**Gráfico de barras:**
 <br>
 
 <img align="center" src="images/graph_1.png"/>
@@ -66,6 +68,7 @@ group by language`
 <br>
 
 <img align="center" width="220" height="170" src="images/language_1.png"/>
+<br>
 
 - [x] Quantidade de ligações atendidas por plataforma ao longo do tempo:
 
@@ -81,3 +84,9 @@ lead_gen_source, call_done_date`
 **Gráfico de linhas:**
 
 <img align="center" src="images/ligacoes_1.png"/>
+
+<br>
+
+## 5. Conclusão
+
+Mesmo com as consultas simples em SQL no METABASE, foi possível obter insights sobre os usuários que utilizam a plataforma assim como, com os dados obtidos, construir estratégias para a aquisição de novos clientes no futuro. 
