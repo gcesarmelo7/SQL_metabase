@@ -87,6 +87,10 @@ lead_gen_source, call_done_date`
 
 <br>
 
-## 5. Conclusão
+## 5. Dashboard completo
+
+<img align="center" src="images/sql_dash.png"/>
+
+## 6. Conclusão
 
 Mesmo com as consultas simples em SQL no METABASE, foi possível obter insights sobre os usuários que utilizam a plataforma assim como, com os dados obtidos, construir estratégias para a aquisição de novos clientes no futuro. 
