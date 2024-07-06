@@ -15,7 +15,7 @@ Portanto, você foi solicitado a analisar vários aspectos da aquisição de cli
 do crescimento de novos usuários em sua empresa.
 
 ## 2. Sobre os dados
-Os dicionário dos dados foram definidos abaixo:
+Os dicionários dos dados foram definidos abaixo:
 
 <img align="center" src="images/sql_1.png"/>
 
